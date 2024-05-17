@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PramathShukla164
 - 👀 I’m interested in Software developement, Data Science, Machine Learning and AI.
-- 🌱 I’m currently learning Machine Learning. 
-- 💞️ I’m looking to collaborate on Machine learning and Data Science projects. 
-- 📫 How to reach me : You can reach me on linkedin Profile Pramath Shukla and my email pramathshukla275@gmail.com
+- 🌱 I’m currently working on a NLP project focused on healthcare field. 
+- 💞️ I’m looking for an internship or work opportunity. 
+- 📫 How to reach me : You can reach me on linkedin Profile https://www.linkedin.com/in/pramath-shukla-13502a206/ and my email pramathshukla275@gmail.com
 <!---
 PramathShukla164/PramathShukla164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
